@@ -27,6 +27,7 @@ case = []
 death = []
 recovery = []
 
+
 for i in covid:
     iSplit = i.split("\n")
     if iSplit[0] == "\xa0":
